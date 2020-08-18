@@ -1,0 +1,22 @@
+{
+  "name": "demo-npm-with-git",
+  "version": "1.0.0",
+  "description": "this is description written from local npm while creating",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/v4varin/demo-npm-with-git.git"
+  },
+  "keywords": [
+    "v4varin"
+  ],
+  "author": "varinshiroia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/v4varin/demo-npm-with-git/issues"
+  },
+  "homepage": "https://github.com/v4varin/demo-npm-with-git#readme"
+}
