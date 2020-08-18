@@ -1,1 +1,1 @@
-# maxbot2
+ # v4varin/demo-npm-with-git
